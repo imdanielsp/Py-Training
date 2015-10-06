@@ -47,7 +47,7 @@ This is a Python training for developers coming form another language. The main 
   
 
 # Introduction to Flask
- ### Flask
+### Flask
   * Hello World
   * Database
   * MVC
