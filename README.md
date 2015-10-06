@@ -1,9 +1,9 @@
 # Py-Training
 This is a Python training for developers coming form another language.
 
-# Structure 
+# Training Structure
 
-# Python Basics
+### Python Basics
   * The Shell
   * Help
   * Basic I/O
@@ -18,7 +18,7 @@ This is a Python training for developers coming form another language.
   * Functions
   * Imports
 
-# Python Collections
+### Python Collections
   * Combining Lists
   * Removing From Lists (Pop)
   * Dictionaries
@@ -28,7 +28,7 @@ This is a Python training for developers coming form another language.
   * Tuples
   * Tuple Packing and Unpacking
   
-# Object-Oriented Python
+### Object-Oriented Python
   * Object and Classes
   * Instances
   * Methods
@@ -40,7 +40,7 @@ This is a Python training for developers coming form another language.
   * DRY
   * Overrind Inheritance
   
-# Python Local Enviroment
+### Python Local Enviroment
   * Installing Python 3 in OSX/Windows
   * Using pip
   * Using virtualenv
