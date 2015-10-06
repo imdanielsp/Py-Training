@@ -1,5 +1,5 @@
 # Py-Training
-This is a Python training for developers coming form another language.
+This is a Python training for developers coming form another language. The main point of this tutorial is to familiarize developers to Python and the Flask web framework. We will use Python 3 and Flask 0.10.1.
 
 # Training Structure
 
@@ -45,3 +45,6 @@ This is a Python training for developers coming form another language.
   * Using pip
   * Using virtualenv
   
+
+# Introduction to Flask
+ ###
