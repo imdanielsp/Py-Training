@@ -7,6 +7,8 @@ This is a Python training for developers coming form another language.
   * The Shell
   * Help
   * Basic I/O
+  * Loops
+  * If-Else
   * String Concatenation
   * String Formating
   * Blocks in Python
