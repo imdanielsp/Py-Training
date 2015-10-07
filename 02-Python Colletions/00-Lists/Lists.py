@@ -7,7 +7,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # Lists are like arrays.
-
+#
 # Declaring and initializing an empty lists.
 
 
